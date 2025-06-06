@@ -15,9 +15,9 @@ This IOT-based data logger monitors temperature and humidity using DHT11 sensor 
 
 💾 SOFTWARE REQUIREMENTS:
 
-    - KEIL C Compiler : For embedded C programming.
-    - PROGRAMMING IN EMBEDDED C :The primary programming language for LPC2148.
-    - Flash Magic:To load the program onto the LPC2148.
+    * KEIL C Compiler : For embedded C programming.
+    * PROGRAMMING IN EMBEDDED C :The primary programming language for LPC2148.
+    * Flash Magic:To load the program onto the LPC2148.
 
 🏗️ SYSTEM ARCHITECTURE: image
 
